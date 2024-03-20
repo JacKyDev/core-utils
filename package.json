@@ -1,0 +1,19 @@
+{
+  "name": "@jackyd/utils-stack",
+  "version": "0.0.0",
+  "private": true,
+  "workspaces": [
+    "library"
+  ],
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacKyDev/utils.git"
+  },
+  "author": "Jens Schreiber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JacKyDev/utils/issues"
+  },
+  "homepage": "https://github.com/JacKyDev/utils#readme"
+}
