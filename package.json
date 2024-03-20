@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/JacKyDev/utils/issues"
   },
-  "homepage": "https://github.com/JacKyDev/utils#readme"
+  "homepage": "https://github.com/JacKyDev/utils#readme",
+  "dependencies": {
+    "adr-tools": "2.0.4"
+  }
 }
