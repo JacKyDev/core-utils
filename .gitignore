@@ -1,0 +1,31 @@
+# Dependencies
+node_modules
+
+# Production
+dist
+
+# Tests
+coverage
+
+# Others
+logs
+*.log
+.cache
+temp
+tmp
+
+# IDEs and editors
+.idea
+.project
+.classpath
+*.launch
+.settings
+.vscode
+
+# Local env files
+.env
+
+# System files
+.DS_Store
+Thumbs.db
+*.pem
