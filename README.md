@@ -24,7 +24,7 @@ These provide an overview of how far the decisions have been elaborated.
 * Proposed: The decision has been proposed and is still being discussed or evaluated.
 * In Progress: The decision is currently in progress and has not been completed yet.
 * Accepted: The decision has been accepted and is being implemented.
-* Implemented: The decision has been fully implemented and is actively in use.
+* Done: The decision has been fully implemented and is actively in use.
 * Rejected: The decision has been rejected and will not be implemented.
 * Deprecated: The decision was valid but is no longer current or recommended due to new developments or requirements.
 * Superseded: The decision has been replaced by a new decision or update in another ADR.
