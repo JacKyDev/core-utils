@@ -7,7 +7,7 @@ Technical Story: https://github.com/JacKyDev/utils/issues/5
 
 ## Status
 
-Status: In Progress (Last Updated: 2024-03-21)
+Status: Done (Last Updated: 2024-03-21)
 
 ## Context and Problem Statement
 
