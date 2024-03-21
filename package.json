@@ -2,6 +2,10 @@
   "name": "@jackyd/utils-stack",
   "version": "0.0.0",
   "private": true,
+  "engines": {
+    "node": ">= 20.11.1",
+    "npm": ">= 10.2.4"
+  },
   "workspaces": [
     "library"
   ],
@@ -16,7 +20,5 @@
     "url": "https://github.com/JacKyDev/utils/issues"
   },
   "homepage": "https://github.com/JacKyDev/utils#readme",
-  "dependencies": {
-    "adr-tools": "2.0.4"
-  }
+  "dependencies": {}
 }
