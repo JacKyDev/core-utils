@@ -17,6 +17,8 @@ The use of ADRs brings several advantages:
 Overall, the use of ADRs promotes a structured and traceable approach to architecture documentation and decision-making, 
 contributing to an overall improved software architecture and development process.
 
+The Architecture Decision Records are listed here: [Architecture Decision Records](./docs/README.md)
+
 ### ADR Status
 There are several statuses that can be defined in an ADR. 
 These provide an overview of how far the decisions have been elaborated.
@@ -31,9 +33,3 @@ These provide an overview of how far the decisions have been elaborated.
 * Withdrawn: The decision has been withdrawn and is no longer valid.
 * Revised: The decision has been revised or updated to account for changes or new insights.
 * Abandoned: The decision has been abandoned and will no longer be pursued.
-
-### CLI-Tool
-For managing ADRs, the "adr-tools" tool is used. 
-This makes the creation and management of documents easier.
-
-Link: [adr-tools (npm-link)](https://www.npmjs.com/package/adr-tools)
